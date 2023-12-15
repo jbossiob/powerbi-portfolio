@@ -21,3 +21,9 @@ Power BI: Dashboards, story-telling.
 _____________________________
 
 ## Project 1: Telemedicine National Center
+
+
+![Benchmarking](https://github.com/jbossiob/powerbi-portfolio/assets/142426392/77991fd7-1466-47be-87be-d2d9db091d53)
+
+
+
