@@ -35,19 +35,41 @@ These three KPIs were implemented in each of the areas of Cenate in the daily mo
 
 _____________________________
 
-## Project 3: National Telemedicine Center
+## Project 3: Drinking water service monitoring
 
-Cenate is the national telemedicine center that provides virtual medical consultations from Lima to all of Peru. For its operation, it requires the analysis of medical records to find those hospitals that have demand for medical services but not for professionals in their regions.
+Dashboard monitoring allows you to geospatially locate the areas where the drinking water service is interrupted, generating three ranges: Service between 0 and 6 hours; between 6 and 12 hours and more than 12 hours of continuity per day. In this way, it is possible to carry out supervisions more efficiently and generate the necessary mechanisms for the water company to restore the service.
+
+![Screenshot_1](https://github.com/jbossiob/powerbi-portfolio/assets/142426392/693854a0-fa66-4667-a9b4-caf1e8126917)
+
+______________________________
+
+## Project 4: Monitoring of drinking water service supervision operations
+
+For this project, different sources of information were used.
+The operations monitored were calls from customers who had interruptions in their service. The main service channels, peak hours and days of service were analyzed.
+
+![Orientaciones_seguimiento](https://github.com/jbossiob/powerbi-portfolio/assets/142426392/18f10910-0bd6-44da-9256-4219414559fe)
+
+![Benchmarking](https://github.com/jbossiob/powerbi-portfolio/assets/142426392/36a523b4-a403-418d-92c6-232831b8e3ff)
 
 
 
+Tracking purchases was also a key point. The water purification companies were monitored according to the stock of chemical inputs, facilitating supervision and ensuring the chlorination of drinking water at the national level.
 
+![Abastecimiento_Insumos](https://github.com/jbossiob/powerbi-portfolio/assets/142426392/3d7a1059-73bc-49cc-a0b1-e40452b50f7b)
 
+______________________________
 
+## Project 5: Monitoring the meteorological phenomenon of "El Niño"
+
+Through the rain forecast of the national meteorological center, it was possible to establish daily monitoring of that infrastructure vulnerable to rain, landslides and floods. Managing to have an alert 24 hours before the impact that allowed prioritizing and executing contingency actions with greater effectiveness.
+
+![Alerta de lluvias](https://github.com/jbossiob/powerbi-portfolio/assets/142426392/8e68803e-5b4b-44bb-9953-da26a674cbac)
 
 
 
 ______________________________
+
 
 ## Skillset 
 
